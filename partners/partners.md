@@ -42,12 +42,17 @@ Companies join Prebid.org because they want to take an active role in supporting
 {: .table .table-bordered .table-striped }
 |                     | Board Seat                                                            | PMC Participation | Private Slack Instance | Participate in Prebid.org Events | Prebid.org Email Address | Logo on Prebid.org Website | Annual Fees |
 |---------------------|-----------------------------------------------------------------------|-------------------|------------------------|----------------------------------|--------------------------|----------------------------|-------------|
-| Leader Members     | <span style="color:#32CD32;">✓</span>                                                                    | <span style="color:#32CD32;">✓</span>                 | <span style="color:#32CD32;">✓</span>                      | <span style="color:#32CD32;">✓</span>                               | <span style="color:#32CD32;">✓</span>                        | <span style="color:#32CD32;">✓</span>                          | $40,000     |
+| Leader Members&nbsp;(*) | <span style="color:#32CD32;">✓</span>                                                                    | <span style="color:#32CD32;">✓</span>                 | <span style="color:#32CD32;">✓</span>                      | <span style="color:#32CD32;">✓</span>                               | <span style="color:#32CD32;">✓</span>                        | <span style="color:#32CD32;">✓</span>                          | $40,000     |
 | Technology Partners | As a Group,  Technology members  elect a representative  to the board | <span style="color:#32CD32;">✓</span>                 | <span style="color:#32CD32;">✓</span>                      | <span style="color:#32CD32;">✓</span>                                | <span style="color:#32CD32;">✓</span>                        | <span style="color:#32CD32;">✓</span>                          | $25,000     |
 | Publishers          | As a Group,  Publisher members elect  a representative to  the board  | <span style="color:#32CD32;">✓</span>                 | <span style="color:#32CD32;">✓</span>                      | <span style="color:#32CD32;">✓</span>                                | <span style="color:#32CD32;">✓</span>                        | <span style="color:#32CD32;">✓</span>                          | $5,000      |
 | Community           | <span style="color:#B22222">✖</span>                                                                     | <span style="color:#32CD32;">✓</span>                 | <span style="color:#32CD32;">✓</span>                      | <span style="color:#32CD32;">✓</span>                                | <span style="color:#B22222">✖</span>                         | <span style="color:#32CD32;">✓</span>                           | Free        |
 
-Have questions about becoming a member, email us at [membership@prebid.org](mailto:membership@prebid.org).
+<font size="-1"><b>(*)</b> The Leader Tier is limited to 8 members and is currently full.</font>
+
+<br>
+<br>
+
+If you have questions about becoming a member, email us at [membership@prebid.org](mailto:membership@prebid.org).
 
 <br>
 <br>
